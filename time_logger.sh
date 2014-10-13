@@ -117,5 +117,3 @@ echo -e    "\n  for a complete list of all session starts and ends consult: $log
 echo "------------------------------------------"
 
 fi
-
-# this is philipps comment
